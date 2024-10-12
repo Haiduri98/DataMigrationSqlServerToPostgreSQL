@@ -16,11 +16,4 @@ In this project, I have created a Dockerfile to set up images for both SQL Serve
 4. **SQL SCRIPTS**:
    - ALL THE SQL SCRIPTS are provided
 
-## How to Use
 
-To get started with this project, follow the steps below:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
