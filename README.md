@@ -1,2 +1,26 @@
-In this project, I create a docker file that gets an image of sqlserver and postgres.
-I restore the database that i have created in sqlserver by using the "adventureworksDW2019" which i then use etl pipeline to migrate the data from sqlserver to postgres.
+# Project Overview
+
+In this project, I have created a Dockerfile to set up images for both SQL Server and PostgreSQL.
+
+## Description
+
+1. **Docker Setup**:
+   - The Dockerfile is configured to pull images for SQL Server and PostgreSQL.
+
+2. **Database Restoration**:
+   - I restore a database from SQL Server using the **AdventureWorksDW2019** database.
+
+3. **ETL Pipeline**:
+   - An ETL (Extract, Transform, Load) pipeline is implemented to migrate data from SQL Server to PostgreSQL.
+  
+4. **SQL SCRIPTS**:
+   - ALL THE SQL SCRIPTS are provided
+
+## How to Use
+
+To get started with this project, follow the steps below:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+   cd <repository-name>
